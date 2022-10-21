@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Restful API projects, large scale microservice projects and any other backend projects that use advanced level backend technologies.
 - 📫 How to reach me:
   1. via email: atarikaltunn@gmail.com
-  2. via linkedin: linkedin.com/in/atarikaltunn
+  2. via linkedin: [linkedin.com/in/atarikaltunn](linkedin.com/in/atarikaltunn)
 
 <!---
 atarikaltunn/atarikaltunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
